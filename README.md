@@ -146,7 +146,8 @@ the views and dimensions clearly so that they can be read easily. Review the dra
 design and drawing files. Figure 2: Orthographic and sectional drawing with isometric representation
 
 
-<img width="1012" height="722" alt="Screenshot 2026-11-22 115525" src="https://github.com/user-attachments/assets/a34b97a9-c6f7-450d-a247-c6165a7eef76" />
+<img width="1027" height="742" alt="Screenshot 2026-11-23 195442" src="https://github.com/user-attachments/assets/f99bdf75-65ac-4fd1-83b1-6c097f69035d" />
+
 
 
 
